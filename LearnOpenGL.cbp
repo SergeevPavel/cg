@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="LearnOpenGL" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\cmake\;CMake Files\cmake\modules\;CMake Files\configuration\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/pavel/AU/graphics/homework/LearnOpenGL" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/pavel/AU/graphics/homework/LearnOpenGL" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="task2">
+         <Option output="/home/pavel/AU/graphics/homework/LearnOpenGL/bin/task2" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/pavel/AU/graphics/homework/LearnOpenGL" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/pavel/AU/graphics/homework/LearnOpenGL/configuration" />
+            <Add directory="/home/pavel/AU/graphics/homework/LearnOpenGL/includes" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 task2" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="task2/fast">
+         <Option output="/home/pavel/AU/graphics/homework/LearnOpenGL/bin/task2" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/pavel/AU/graphics/homework/LearnOpenGL" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/pavel/AU/graphics/homework/LearnOpenGL/configuration" />
+            <Add directory="/home/pavel/AU/graphics/homework/LearnOpenGL/includes" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 task2/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="task3">
+         <Option output="/home/pavel/AU/graphics/homework/LearnOpenGL/bin/task3" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/pavel/AU/graphics/homework/LearnOpenGL" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/pavel/AU/graphics/homework/LearnOpenGL/configuration" />
+            <Add directory="/home/pavel/AU/graphics/homework/LearnOpenGL/includes" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 task3" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="task3/fast">
+         <Option output="/home/pavel/AU/graphics/homework/LearnOpenGL/bin/task3" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/pavel/AU/graphics/homework/LearnOpenGL" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/pavel/AU/graphics/homework/LearnOpenGL/configuration" />
+            <Add directory="/home/pavel/AU/graphics/homework/LearnOpenGL/includes" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 task3/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="task4">
+         <Option output="/home/pavel/AU/graphics/homework/LearnOpenGL/bin/task4" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/pavel/AU/graphics/homework/LearnOpenGL" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/pavel/AU/graphics/homework/LearnOpenGL/configuration" />
+            <Add directory="/home/pavel/AU/graphics/homework/LearnOpenGL/includes" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 task4" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="task4/fast">
+         <Option output="/home/pavel/AU/graphics/homework/LearnOpenGL/bin/task4" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/pavel/AU/graphics/homework/LearnOpenGL" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/pavel/AU/graphics/homework/LearnOpenGL/configuration" />
+            <Add directory="/home/pavel/AU/graphics/homework/LearnOpenGL/includes" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 task4/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/pavel/AU/graphics/homework/LearnOpenGL" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/pavel/AU/graphics/homework/LearnOpenGL/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/pavel/AU/graphics/homework/LearnOpenGL/src/task2/main.cpp">
+         <Option target="task2"/>
+      </Unit>
+      <Unit filename="/home/pavel/AU/graphics/homework/LearnOpenGL/src/task3/model_rendered.cpp">
+         <Option target="task3"/>
+      </Unit>
+      <Unit filename="/home/pavel/AU/graphics/homework/LearnOpenGL/src/task4/deferred_shading.cpp">
+         <Option target="task4"/>
+      </Unit>
+      <Unit filename="/home/pavel/AU/graphics/homework/LearnOpenGL/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/pavel/AU/graphics/homework/LearnOpenGL/cmake/modules/FindGLM.cmake">
+          <Option virtualFolder="CMake Files\cmake\modules\" />
+      </Unit>
+      <Unit filename="/home/pavel/AU/graphics/homework/LearnOpenGL/cmake/modules/FindGLFW3.cmake">
+          <Option virtualFolder="CMake Files\cmake\modules\" />
+      </Unit>
+      <Unit filename="/home/pavel/AU/graphics/homework/LearnOpenGL/cmake/modules/FindASSIMP.cmake">
+          <Option virtualFolder="CMake Files\cmake\modules\" />
+      </Unit>
+      <Unit filename="/home/pavel/AU/graphics/homework/LearnOpenGL/cmake/modules/FindSOIL.cmake">
+          <Option virtualFolder="CMake Files\cmake\modules\" />
+      </Unit>
+      <Unit filename="/home/pavel/AU/graphics/homework/LearnOpenGL/cmake/modules/FindGLEW.cmake">
+          <Option virtualFolder="CMake Files\cmake\modules\" />
+      </Unit>
+      <Unit filename="/home/pavel/AU/graphics/homework/LearnOpenGL/configuration/root_directory.h.in">
+          <Option virtualFolder="CMake Files\configuration\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

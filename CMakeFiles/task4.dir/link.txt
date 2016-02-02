@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g -Wall   CMakeFiles/task4.dir/src/task4/deferred_shading.cpp.o  -o bin/task4  -L/home/pavel/AU/graphics/homework/LearnOpenGL/lib -rdynamic -lglfw -lX11 -lXrandr -lXinerama -lXi -lXxf86vm -lXcursor -lGL -ldl -lpthread -lGLEW -lSOIL -lassimp -Wl,-rpath,/home/pavel/AU/graphics/homework/LearnOpenGL/lib 
